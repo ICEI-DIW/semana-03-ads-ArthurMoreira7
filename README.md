@@ -8,10 +8,11 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Arthur Moreira Silva
+- Matricula:1558099
+- Proposta de projeto escolhida: catalogo de filmes 
+- Breve descrição sobre seu projeto: lista de filmes e series para assitir e ja assitidos 
+
 
 
 ## Print do esboço criada
